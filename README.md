@@ -15,7 +15,7 @@ Built by [Ali Morgan](https://www.jonomor.com/ali-morgan) — sole architect acr
 | [The Neutral Bridge](https://www.theneutralbridge.com) | CreativeWork | theneutralbridge.com | Live |
 | [Evenfield](https://www.evenfield.io) | SoftwareApplication | evenfield.io | Live |
 | [H.U.N.I.E.](https://www.hunie.ai) | SoftwareApplication | hunie.ai | Live |
-| [AI Presence](https://www.ai-presence.app) | SoftwareApplication | ai-presence.app | Live |
+| [AI Presence](https://www.ai-presence.app) | SoftwareApplication | ai-presence.app | 44/50 Authority |
 | [JNS Studios](https://www.jnsstudios.com) | Organization | jnsstudios.com | Live |
 
 ## Documentation
