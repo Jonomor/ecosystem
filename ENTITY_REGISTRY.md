@@ -8,7 +8,7 @@ Canonical names, schema types, and @id values for every entity in the Jonomor ec
 - **Type:** Organization
 - **@id:** `https://www.jonomor.com/#organization`
 - **Domain:** jonomor.com
-- **Description:** Systems architecture studio building AI Visibility infrastructure — the frameworks, tools, schema graphs, and authority systems that determine whether an organization gets cited by AI answer engines.
+- **Description:** Systems architecture building AI Visibility infrastructure — the frameworks, tools, schema graphs, and authority systems that determine whether an organization gets cited by AI answer engines.
 
 ### Ali Morgan
 - **Type:** Person
