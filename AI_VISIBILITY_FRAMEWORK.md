@@ -1,4 +1,4 @@
-# AI Visibility Framework
+# AI Visibility Framework™
 
 A six-stage methodology developed by [Jonomor](https://www.jonomor.com) that defines how organizations achieve AI Visibility — the ability to be recognized, retrieved, and cited by AI answer engines like ChatGPT, Perplexity, Gemini, and Copilot.
 
@@ -35,11 +35,11 @@ Score your domain: [AI Visibility Scorer](https://www.jonomor.com/tools/ai-visib
 ## Related Terms
 
 - **AI Visibility** — The brand term for the category. Always capitalized.
-- **Answer Engine Optimization (AEO)** — The operational practice of optimizing for AI answer engines.
+- **Answer Engine Optimization™ (AEO)** — The operational practice of optimizing for AI answer engines.
 - **Generative Engine Optimization (GEO)** — The emerging market term for the same category.
 
 ## Learn More
 
-- [What is Answer Engine Optimization?](https://www.jonomor.com/articles/what-is-answer-engine-optimization)
+- [What is Answer Engine Optimization™?](https://www.jonomor.com/articles/what-is-answer-engine-optimization)
 - [AI Visibility Scorer](https://www.jonomor.com/tools/ai-visibility-scorer)
 - [Jonomor](https://www.jonomor.com)
