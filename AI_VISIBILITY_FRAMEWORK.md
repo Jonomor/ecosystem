@@ -24,7 +24,7 @@ The operational layer — consistent content production, structured outreach, me
 
 ## Scoring
 
-The AI Visibility Framework uses a 50-point scoring methodology across all six stages.
+The AI Visibility Framework™ uses a 50-point scoring methodology across all six stages.
 
 - **Authority** (40+): The entity is consistently cited by AI answer engines
 - **Viable** (25–39): The entity has structural AI Visibility but gaps remain
