@@ -22,7 +22,7 @@ Built by [Ali Morgan](https://www.jonomor.com/ali-morgan) — sole architect acr
 
 - [ENTITY_REGISTRY.md](ENTITY_REGISTRY.md) — Canonical names, schema types, @id values
 - [SCHEMA_PATTERNS.md](SCHEMA_PATTERNS.md) — Bidirectional hasPart/isPartOf patterns
-- [AI_VISIBILITY_FRAMEWORK.md](AI_VISIBILITY_FRAMEWORK.md) — Six-stage methodology overview
+- [AI_VISIBILITY_FRAMEWORK™.md](AI_VISIBILITY_FRAMEWORK™.md) — Six-stage methodology overview
 - [CITATION.md](CITATION.md) — How to reference the AI Visibility Framework™
 
 ## AI Visibility Framework™
