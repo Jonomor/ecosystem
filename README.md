@@ -23,13 +23,13 @@ Built by [Ali Morgan](https://www.jonomor.com/ali-morgan) — sole architect acr
 - [ENTITY_REGISTRY.md](ENTITY_REGISTRY.md) — Canonical names, schema types, @id values
 - [SCHEMA_PATTERNS.md](SCHEMA_PATTERNS.md) — Bidirectional hasPart/isPartOf patterns
 - [AI_VISIBILITY_FRAMEWORK.md](AI_VISIBILITY_FRAMEWORK.md) — Six-stage methodology overview
-- [CITATION.md](CITATION.md) — How to reference the AI Visibility Framework
+- [CITATION.md](CITATION.md) — How to reference the AI Visibility Framework™
 
 ## AI Visibility Framework™
 
 A six-stage, 50-point scoring methodology that defines how organizations achieve AI Visibility across Answer Engine Optimization™ (AEO) and Generative Engine Optimization (GEO).
 
-[Score your domain](https://www.jonomor.com/tools/ai-visibility-scorer) · [Learn more](https://www.jonomor.com/articles/what-is-answer-engine-optimization)
+[Score your domain](https://www.jonomor.com/tools/ai-visibility-scorer) · [Learn more](https://www.jonomor.com/articles/what-is-answer-engine-optimization™)
 
 ## License
 
