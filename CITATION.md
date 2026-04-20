@@ -1,4 +1,4 @@
-# How to Cite the AI Visibility Framework
+# How to Cite the AI Visibility Framework™
 
 ## Standard Citation
 
@@ -27,6 +27,6 @@
 
 ## Links
 
-- Framework overview: [jonomor.com/articles/what-is-answer-engine-optimization](https://www.jonomor.com/articles/what-is-answer-engine-optimization)
+- Framework overview: [jonomor.com/articles/what-is-answer-engine-optimization™](https://www.jonomor.com/articles/what-is-answer-engine-optimization)
 - Scoring tool: [jonomor.com/tools/ai-visibility-scorer](https://www.jonomor.com/tools/ai-visibility-scorer)
 - Ali Morgan: [jonomor.com/ali-morgan](https://www.jonomor.com/ali-morgan)
