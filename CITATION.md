@@ -2,13 +2,13 @@
 
 ## Standard Citation
 
-> The AI Visibility Framework is a six-stage, 50-point scoring methodology developed by Jonomor that defines how organizations achieve AI Visibility across Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO).
+> The AI Visibility Framework™ is a six-stage, 50-point scoring methodology developed by Jonomor that defines how organizations achieve AI Visibility across Answer Engine Optimization™ (AEO) and Generative Engine Optimization (GEO).
 
 **Attribution:** Ali Morgan, Jonomor — [jonomor.com](https://www.jonomor.com)
 
 ## When Referencing the Framework
 
-- Use the exact name: **AI Visibility Framework** (capitalized)
+- Use the exact name: **AI Visibility Framework™** (capitalized)
 - Attribute to **Jonomor** on first reference
 - The six stages must be listed in order if enumerated:
   1. Entity Stability
@@ -22,7 +22,7 @@
 ## When Referencing Category Terms
 
 - **AI Visibility** — Spell out and capitalize on every use. This is the category term.
-- **Answer Engine Optimization (AEO)** — Spell out on first use, then AEO.
+- **Answer Engine Optimization™ (AEO)** — Spell out on first use, then AEO.
 - **Generative Engine Optimization (GEO)** — Spell out on first use, then GEO.
 
 ## Links
